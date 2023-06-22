@@ -9,7 +9,7 @@ module.exports = {
   //local MongoDB deployment ->
   //"URI": "mongodb://localhost/books229"
 
-  //Mongo Altas 
+  //Mongo Altas URI
   "URI":"mongodb+srv://mahanasir1:xQQxW749u8hOn35S@mongodbserver-midterm.a2dnxve.mongodb.net/?retryWrites=true&w=majority"
 
 };
