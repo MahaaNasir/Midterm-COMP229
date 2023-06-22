@@ -1,5 +1,5 @@
 {
-  "name": "COMP229-S2023-MidTerm-301266305",
+  "name": "comp229-s2023-midterm-301266305",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -52,7 +52,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Maha Nasir",
   "license": "ISC",
   "bugs": {
     "url": ""
